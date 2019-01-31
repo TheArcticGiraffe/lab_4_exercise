@@ -6,4 +6,5 @@ public abstract class Shape {
     private int y;
     private int z;
     private String color;
+
 }
